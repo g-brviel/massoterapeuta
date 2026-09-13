@@ -1,0 +1,8 @@
+{
+  "name": "Remix Espaço Renovo",
+  "description": "Clínica de massoterapia Espaço Renovo - Atendimento exclusivo com hora marcada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
